@@ -1,1 +1,3 @@
 random A 1.0
+
+random B 1.0
