@@ -1,3 +1,7 @@
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?
 
 hola.txt B Change Test 2.0
+
+Punto 7
+Trabajando en el mismo archivo -> Parcipante A
+2
